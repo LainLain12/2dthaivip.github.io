@@ -1,0 +1,94 @@
+/* your styles go here */
+
+.btn-primary{
+
+    background-color: brown;
+    border-color: cornsilk;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color:gray;
+    border-color: #285e8e; /*set the color you want here*/
+}
+.nav-link.active{
+
+    color: crimson;
+}
+
+.text-primary{
+
+    color: crimson !important;
+}
+
+    .navbar ul li a:hover {
+    color: #00b3db}
+
+
+
+    @font-face {
+        font-family: myanmar;
+        src: url(fonts/NotoSans.ttf);
+      }
+
+
+
+.myanmar-font{
+
+    font-family: myanmar;
+    font-size: large;
+}
+
+.myanmar-font-small{
+
+    font-family: myanmar;
+    font-size: medium;
+}
+
+.myanmar-font-xlarge{
+
+    font-family: myanmar;
+    font-size: larger;
+}
+
+.myanmar-font-xlarge2{
+
+    font-family: myanmar;
+    font-size: xx-large;
+}
+
+.my-red{
+
+    color:crimson;
+}
+
+.my-top{
+
+    padding-top: 20px;
+}
+
+.my-top-40{
+
+    padding-top: 40px;
+
+}
+
+.my-top-10{
+
+    padding-top: 10px;
+
+}
+
+.rounded-lg {
+    border-radius: 1rem !important;
+}
+
+.text-small {
+    font-size: 0.9rem !important;
+}
+
+.custom-separator {
+    width: 5rem;
+    height: 6px;
+    border-radius: 1rem;
+}
